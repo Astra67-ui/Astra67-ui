@@ -14,7 +14,6 @@ Full Stack Developer who loves to drink coffee and play video games
 
 🌱 &nbsp;I'm currently learning **PHP**  
 💬 &nbsp;Ask me about **anything!**  
-😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **I code at my phone**
 
 ### 🛠️ Tech Stack
