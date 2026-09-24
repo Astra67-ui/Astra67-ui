@@ -41,17 +41,7 @@ Full Stack Developer who loves to drink coffee and play video games
   <a href="mailto:mang.tomas4k@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Astra67-ui&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astra67-ui&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
 
 ### 💭 Dev Quote
 
